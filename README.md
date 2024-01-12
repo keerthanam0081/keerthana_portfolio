@@ -1,4 +1,4 @@
-Personal Portfolio
+
 Welcome to my personal portfolio! This website is my online resume, highlighting my skills, projects, and experiences. The goal is to present a clean, visually appealing, and responsive overview of my capabilities and achievements.
 
 Features
